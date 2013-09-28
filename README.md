@@ -1,1 +1,1 @@
-Aca deberia ir la descripcio general del proyecto
+Aca deberia ir la descripcion general del proyecto, en todo proyecto deberia existir este documento.
